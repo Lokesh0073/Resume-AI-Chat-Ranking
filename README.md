@@ -49,7 +49,7 @@ open_api_key=your_openai_api_key_here
 
 ### 5️⃣ Run the Application
 ```bash
-streamlit run app.py
+streamlit run Chat_&_rank_Resume.py
 ```
 
 ## 🎯 Usage Guide
